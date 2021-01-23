@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kodlamaio1", "kodlamaio1\kodlamaio1.csproj", "{6BBA39EF-AC6D-4490-AB10-837535166989}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kodlamaio1", "kodlamaio1\kodlamaio1.csproj", "{6BBA39EF-AC6D-4490-AB10-837535166989}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "matematik\Matematik.csproj", "{1D356FB6-232E-45BA-AD9D-9FA2F683A10E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "matematik\Matematik.csproj", "{1D356FB6-232E-45BA-AD9D-9FA2F683A10E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{EA585752-8E77-4A3B-8633-ADFE8CE097AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{EA585752-8E77-4A3B-8633-ADFE8CE097AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutParametreleri", "RefOutParametreleri\RefOutParametreleri.csproj", "{14469864-440B-441E-8F1C-9B021370408C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EA585752-8E77-4A3B-8633-ADFE8CE097AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA585752-8E77-4A3B-8633-ADFE8CE097AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA585752-8E77-4A3B-8633-ADFE8CE097AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14469864-440B-441E-8F1C-9B021370408C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14469864-440B-441E-8F1C-9B021370408C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14469864-440B-441E-8F1C-9B021370408C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14469864-440B-441E-8F1C-9B021370408C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
